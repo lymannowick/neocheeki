@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohphahsoh.imzhang.wang/sitemap.xml
